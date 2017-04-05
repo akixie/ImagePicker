@@ -3,7 +3,7 @@
 
 
 
-PS: 参考 https://github.com/wenzhaot/InstagramPhotoPicker
+> PS: 参考 https://github.com/wenzhaot/InstagramPhotoPicker
 
 GIF效果预览如下：
 
