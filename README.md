@@ -7,4 +7,4 @@
 
 GIF效果预览如下：
 
-![预览] (https://github.com/akixie/ImagePicker/blob/master/ImagePicker/ImagePicker/GetFit_ImagePicker.gif)
+![img] (https://github.com/akixie/ImagePicker/blob/master/ImagePicker/ImagePicker/GetFit_ImagePicker.gif)
