@@ -21,6 +21,14 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    self.title = @"GetFit";
+    
+    UILabel *txtLabel = [[UILabel alloc] initWithFrame:CGRectMake((SCREEN_W-200)/2, 100, 200, 21)];
+    txtLabel.text = @"GetFit-线上私人健身管家";
+    txtLabel.textColor = [UIColor redColor];
+    [self.view addSubview:txtLabel];
+    
+    
     UIButton *pickerButton = [[UIButton alloc] initWithFrame:CGRectMake((SCREEN_W-80)/2, 150, 80, 50)];
     [pickerButton setTitle:@"图片选择" forState:UIControlStateNormal];
     pickerButton.backgroundColor = [UIColor grayColor];
