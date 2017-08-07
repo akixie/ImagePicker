@@ -1,5 +1,5 @@
 # ImagePicker
-相册图片选择模仿Instagram，Present Image Picker like Instagram,
+相册图片选择
 
 
 
